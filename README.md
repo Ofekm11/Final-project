@@ -15,9 +15,7 @@ This project explores the Netflix Movies & TV Shows dataset to help the content 
 
 ## 📊 Most Impressive Graph
 
-![Top Countries Treemap](screenshots/treemap.png)
-
-A colorful and interactive Plotly Treemap showing the top 20 countries by number of Netflix titles.
+Top 10 countries with the most content on Netflix
 
 ---
 
